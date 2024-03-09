@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tsp-algorithms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tsp_algorithms_jar</output-path>
+    <root id="archive" name="tsp-algorithms.jar">
+      <element id="module-output" name="tsp-algorithms" />
+    </root>
+  </artifact>
+</component>
