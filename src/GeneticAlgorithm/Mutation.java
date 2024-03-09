@@ -1,6 +1,3 @@
-// Klasa zaimplementowana w celu wyznaczenia mutacji dla danego chromosomu
-// Wszystkie funkcje wewnatrz klasy pozostawiaja wierzchołek startowy i końcowy bez
-// zmian tak, aby nie poszerzać bez potrzeby przestrzeni poszukiwań
 package GeneticAlgorithm;
 
 import java.util.Arrays;
