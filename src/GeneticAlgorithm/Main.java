@@ -23,7 +23,7 @@ public class Main {
             System.out.println("To select the crossing method, press '6'");
             System.out.println("To select the mutation method, press '7'");
             System.out.println("To run the genetic algorithm press '8'");
-            System.out.println("To return to the main menu, press '6'");
+            System.out.println("To return to the main menu, press '9'");
             System.out.print("Your choice: ");
             option = scanner.nextInt();
             switch (option) {

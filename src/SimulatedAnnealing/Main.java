@@ -16,7 +16,7 @@ public class Main {
             System.out.println("To set the stop criterion (time) press '2'");
             System.out.println("To set the temperature change factor, press '3'");
             System.out.println("To run the algorithm implementing the simulated annealing method, press '4'");
-            System.out.println("To return to the main menu, press '6'");
+            System.out.println("To return to the main menu, press '5'");
             System.out.print("Your choice: ");
             option = scanner.nextInt();
             switch (option) {
